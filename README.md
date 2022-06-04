@@ -7,3 +7,6 @@
 
 ## In case you are stuck at step 3
 The only way to exit is closing it by **Task Manager**, be sure to extract latest.zip because it contains "local_res" and "hotupdate" folder
+
+## In case the release doesn't work
+Clone and build the app by yourself
