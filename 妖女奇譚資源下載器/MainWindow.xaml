@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="妖女奇譚資源下載器" Height="100" Width="390">
     <Grid>
-        <Button Name="btn_download" Content="下載" HorizontalAlignment="Left" Margin="28,25,0,0" VerticalAlignment="Top" Width="75" Click="btn_download_Click"/>
+        <Button Name="btn_download" Content="Download" HorizontalAlignment="Left" Margin="28,25,0,0" VerticalAlignment="Top" Width="75" Click="btn_download_Click"/>
         <CheckBox Name="cb_isCover" Content="是否覆蓋" HorizontalAlignment="Left" Margin="121,14,0,0" VerticalAlignment="Top"/>
         <Label x:Name="lb_counter" Content="" HorizontalAlignment="Left" Margin="210,21,0,0" VerticalAlignment="Top"/>
         <CheckBox x:Name="cb_Debug" Content="輸出Fail log" HorizontalAlignment="Left" Margin="121,39,0,0" VerticalAlignment="Top"/>
